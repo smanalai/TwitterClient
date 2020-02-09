@@ -15,7 +15,7 @@ public class User {
         User User = new User();
         User.name = jsonObject.getString("name");
         User.screenName = jsonObject.getString("screen_name");
-        User.profileImageUrl = jsonObject.getString("profile_image_url_http");
+        User.profileImageUrl = jsonObject.getString("profile_image_url_https");
         return User;
     }
 
