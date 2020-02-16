@@ -1,4 +1,4 @@
-# ** PART II**
+# PART II
 
 # Project 2 - *TwitterClient*
 
